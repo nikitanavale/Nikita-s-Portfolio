@@ -4,4 +4,3 @@
 <n><list>•	Genre and Production Insights: Evaluated genre ratings, production trends, and characteristics of Best Picture nominees and winners using advanced statistical and visualization techniques.</list>
 Link to this - https://public.tableau.com/app/profile/nikita5358/viz/IMDBAnalysis_17188248237660/Sheet1
 
-<h1> Project 2: COVID 19 Python Analysis</h1>
